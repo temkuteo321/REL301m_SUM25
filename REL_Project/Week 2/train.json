@@ -1,0 +1,12 @@
+[
+  {"query": "What is the capital of France?"},
+  {"query": "Explain what a black hole is."},
+  {"query": "Tell me a fun fact about space."},
+  {"query": "How does gravity work?"},
+  {"query": "What is the speed of light?"},
+  {"query": "Who was Albert Einstein?"},
+  {"query": "Why is the sky blue?"},
+  {"query": "What causes seasons on Earth?"},
+  {"query": "What are exoplanets?"},
+  {"query": "Can humans live on Mars?"}
+]

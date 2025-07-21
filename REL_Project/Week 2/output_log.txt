@@ -1,0 +1,97 @@
+Query: ['What is the capital of France?', 'Explain what a black hole is.', 'Tell me a fun fact about space.', 'How does gravity work?', 'What is the speed of light?', 'Who was Albert Einstein?', 'Why is the sky blue?', 'What causes seasons on Earth?', 'What are exoplanets?', 'Can humans live on Mars?']
+Response: What is the capital of France?The first time I saw the new "The Walking Dead" trailer, I was so excited. I was so excited to see the first trailer for the
+Reward: 3.1
+
+Query: What is the capital of France?
+Response: What is the capital of France?
+
+The capital of France is Paris.
+
+The capital of France is Paris.
+
+The capital of France is Paris.
+
+The
+Reward: 2.5
+
+Query: Explain what a black hole is.
+Response: Explain what a black hole is.
+
+
+The first thing to do is to get the first thing.
+
+The second thing is to get the second thing.
+
+The
+Reward: 2.7
+
+Query: Tell me a fun fact about space.
+Response: Tell me a fun fact about space.
+
+I'm not sure I understand the concept of space.
+
+I'm not sure I understand the concept of space.
+
+I'm
+Reward: 2.6
+
+Query: How does gravity work?
+Response: How does gravity work?
+
+The first step in the process of determining gravity is to determine the gravity of the object is in. The first step is to determine the angle
+Reward: 3.1
+
+Query: What is the speed of light?
+Response: What is the speed of light?
+
+The speed of light is the speed of light.
+
+The speed of light is the speed of light.
+
+The speed of light
+Reward: 2.8
+
+Query: Who was Albert Einstein?
+Response: Who was Albert Einstein?
+
+The first person to say that Einstein was not a scientist.
+
+The first person to say that Einstein was not a scientist.
+
+
+Reward: 2.6
+
+Query: Why is the sky blue?
+Response: Why is the sky blue?
+
+The sky is blue.
+
+The sky is blue.
+
+
+The sky is blue.
+
+The sky is blue.
+
+Reward: 2.1
+
+Query: What causes seasons on Earth?
+Response: What causes seasons on Earth?
+
+The Earth is a very complex, and complex system. It is a complex system that is not just a system of stars, but a system
+Reward: 3.0
+
+Query: What are exoplanets?
+Response: What are exoplanets?
+
+
+The first exoplanet is a planet that is a planet that is a planet that is a planet that is a planet that is a
+Reward: 2.8
+
+Query: Can humans live on Mars?
+Response: Can humans live on Mars?
+
+
+The first human to live on Mars is a man named "Mars" who has been living on Mars for over 100 years. He is
+Reward: 2.9
+

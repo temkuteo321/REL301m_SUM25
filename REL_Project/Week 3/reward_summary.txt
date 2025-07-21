@@ -1,0 +1,17 @@
+Epoch 1 - Avg Reward: 0.3750
+Epoch 2 - Avg Reward: 0.3000
+Epoch 1 - Avg Reward: 0.3500
+Epoch 2 - Avg Reward: 0.2000
+Epoch 3 - Avg Reward: 0.3100
+Epoch 1 - Avg Reward: 0.2500
+Epoch 2 - Avg Reward: 0.3250
+Epoch 3 - Avg Reward: 0.9000
+Epoch 1 - Avg Reward: 0.0250
+Epoch 2 - Avg Reward: 0.5000
+Epoch 3 - Avg Reward: 0.6250
+Epoch 1 - Avg Reward: 0.0000
+Epoch 2 - Avg Reward: 0.0000
+Epoch 3 - Avg Reward: 0.0000
+Epoch 1 - Avg Reward: 0.5500
+Epoch 2 - Avg Reward: 0.7750
+Epoch 3 - Avg Reward: 0.9750

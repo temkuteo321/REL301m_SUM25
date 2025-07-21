@@ -1,0 +1,4355 @@
+Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.2
+
+Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.2
+
+Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1952? 1990
+Reward: 0.2
+
+Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.2
+
+Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+
+Reward: 0.2
+
+Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.2
+
+Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.2
+
+Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.2
+
+Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.2
+
+Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.2
+
+Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? The Current
+Reward: 0.2
+
+Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number? T
+Reward: 0.2
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.0
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.0
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1952
+Reward: 0.5
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.0
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+
+Reward: 0.0
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Jupiter
+Reward: 3.0
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.0
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? The Sun
+Reward: 0.5
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Mars
+Reward: 0.5
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.0
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Reward: 0.0
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.0
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.0
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.0
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Reward: 0.0
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Reward: 0.0
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Reward: 0.0
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars
+Reward: 3.0
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+Reward: 0.0
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Reward: 0.0
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.0
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.0
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 00
+Reward: 0.5
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.0
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Reward: 0.0
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.0
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Current Population
+Reward: 0.5
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.0
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.0
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? Take a number
+Reward: 0.5
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Current Time here
+Reward: 0.5
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number? Gadgets
+Reward: 0.5
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Common Name
+Reward: 0.5
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.0
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Find out more about the latest from ABC
+Reward: 0.5
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Rate the world's favorite garden
+Reward: 0.5
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? Cincinna
+Reward: 0.5
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Current password:
+Reward: 0.5
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? English-speakers speak any language other than Spanish
+Reward: 0.5
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Views have been rated: Muse
+Reward: 0.5
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+
+Copyright © 2000 by W
+Reward: 0.5
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? Post your theories in the comments.
+Reward: 0.5
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 2010
+Reward: 0.5
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? Canada
+Reward: 0.5
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? It is based on a concept from Around the World in which Original
+Reward: 0.5
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Date created
+Reward: 0.5
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Cook planet Earth
+Reward: 0.5
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Venus Sun Total Time Fusion
+Reward: 0.5
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? 5009
+Reward: 0.5
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? Number Choose... Black Red Red Yellow
+Reward: 0.5
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Spanish
+Reward: 0.5
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.0
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.0
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1952?
+Reward: 0.5
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.0
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Reward: 0.0
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Jupiter
+Reward: 3.0
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Mars
+Reward: 0.5
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? 100
+Reward: 0.5
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Apollo 11
+Reward: 0.5
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.0
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Lao
+Reward: 0.5
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.0
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.0
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.0
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Reward: 0.0
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.0
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.0
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Reward: 0.0
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.0
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Reward: 0.0
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Jupiter?
+Reward: 3.0
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.0
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.0
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Alexander Pope, who has lived in the midst of the universe before Abraham?
+Reward: 0.5
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.0
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water? The chemical symbol of life?
+Reward: 0.5
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.0
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? The one who was Saddam Hussein?
+Reward: 0.5
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? How can we pay for it?
+Reward: 0.5
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Reward: 0.0
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.0
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.0
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.0
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? and who gave LSD to a cow in a quarter?"
+Reward: 0.5
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.0
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water? Are antibiotics effective? What are drugs for meat?
+Reward: 0.2
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? from the theory of water? Why did man create gases? Was it scientifically accurate for man to create ice? Was it accurate to kill bacteria?
+Reward: 0.2
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? And did it kill millions of babies?"
+Reward: 0.5
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? What do you think about taxation on food in terms?"
+Reward: 0.5
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? How about Mars were they able to find aliens on Mars before humans started on fire?"
+Reward: 0.5
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.0
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?How long do you have to live in prison do you make slaves?
+Reward: 0.5
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? What about nutrients do we get from wood grain?
+Reward: 0.5
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.0
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?How many jobs did women die in some factories producing cotton do they make in some countries using fertilizers?What happens in turn are they interested in hydrogen perchloric acid compounds (PEC) do they eat?
+Reward: 0.2
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1952? 1950
+Reward: 0.50
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.00
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+
+Reward: 0.00
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.00
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.00
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.00
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.00
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.00
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? The Republic of the Republic of the World
+Reward: 0.50
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.00
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.00
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.00
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+
+Reward: 0.00
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Reward: 0.00
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? yen
+Reward: 3.00
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Reward: 0.00
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? English |
+Reward: 0.50
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Earth's moon?
+Reward: 0.50
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Reward: 0.00
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? Canada? Quebec
+Reward: 0.50
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? (1993, Bally Entertainment)
+Reward: 0.50
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Jupiter?
+Reward: 3.00
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.00
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.00
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.00
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.00
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Antarctica is in degrees Fahrenheit? 100.068°
+Reward: 0.50
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number? 0?
+Reward: 0.50
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.00
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.00
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Reward: 0.00
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Who is the most famous person to be named after?
+Reward: 0.50
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? アナル
+Reward: 0.50
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Reward: 0.00
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Brazilian
+Reward: 0.50
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Reward: 0.00
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? February 1945 2001
+Reward: 3.00
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.00
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Vote
+Reward: 0.50
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Jupiter, Mercury
+Reward: 3.00
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.00
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? How old is the Earth?
+Reward: 0.50
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Moon Colon
+Reward: 0.50
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.00
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? California
+Reward: 0.50
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.00
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? California, US
+
+Reward: 0.50
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.00
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Reward: 0.00
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Who is the most beautiful woman?
+Reward: 0.50
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? Japan Yen
+Reward: 3.00
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars
+Reward: 3.00
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? English - Portuguese
+Reward: 3.00
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Reward: 0.00
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1952
+Reward: 0.50
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.00
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Reward: 0.00
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.00
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Reward: 0.00
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Reward: 0.00
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.00
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Reward: 0.00
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Reward: 0.00
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.00
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.00
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.00
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Reward: 0.00
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Reward: 0.00
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Reward: 0.00
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Reward: 0.00
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+Reward: 0.00
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Reward: 0.00
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?Which countries are most likely to be part of the 'war on terror'."
+Reward: 0.50
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?What country are you?"
+Reward: 0.50
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?," and
+Reward: 0.50
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.00
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?How many are there in the sky?What is the density on Earth?"
+Reward: 0.50
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?What is the atmosphere?", he asked.
+Reward: 0.50
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?What did you do?"
+Reward: 0.50
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? Which is 13."
+Reward: 0.50
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?How many times has the Land of the Rising Sun been in eclipse?"
+Reward: 0.50
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.00
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?What type of plant do plants make starch?"
+Reward: 0.50
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?What percentage of Earth does it melt in the year?", and how much does carbon dioxide do it add to a barrel of gasoline?"
+Reward: 0.50
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?What drugs do they kill us?"
+Reward: 0.50
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Reward: 0.00
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?What currency does Japan use gold?"
+Reward: 0.50
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?What other planet is known for its atmosphere?"
+Reward: 0.50
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?What is it spoken by all countries?"
+Reward: 0.50
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?How much is the Earth's circumference around the Moon?"
+Reward: 3.00
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?What chemical symbol do you use for fertilizers?"
+Reward: 0.50
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?What year did World War II end?"
+Reward: 0.50
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.00
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Email us at info@thesaurus
+Reward: 0.50
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? What planet is largest planet in Saturn?"
+Reward: 0.50
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?How many oceans are there on Earth?"
+Reward: 0.50
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? How much precipitation do they absorb rain?"
+Reward: 0.50
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.00
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? What it is on Mars?"
+Reward: 0.50
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Which country is known for the Rise of a Rose?"
+Reward: 0.50
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.00
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? What food do plants make when made by a process by a process by process?"
+Reward: 0.50
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? What do hurricanes in India and Antarctica have ice on top of them?"
+Reward: 0.50
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Post us on
+Reward: 0.50
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Email us!
+Reward: 0.50
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? 50 yen
+Reward: 3.00
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Let us know in the comments below
+Reward: 0.50
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? What are Brazilian Portuguese?"
+Reward: 3.00
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Reward: 0.00
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.00
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1952? 1950
+Reward: 0.50
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Reward: 0.00
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+
+Reward: 0.00
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Mars? Mars
+Reward: 0.50
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Earth?
+Reward: 0.50
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? The Earth's atmosphere is the largest planet and the largest in the solar system.
+Reward: 0.50
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Reward: 0.00
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? United States of America
+Reward: 0.50
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Reward: 0.00
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number? 0
+Reward: 0.50
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.00
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? °C
+Reward: 0.50
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Reward: 0.00
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Bell
+Reward: 0.50
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? Yen
+Reward: 3.00
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Kuiper Belt - Earth
+Reward: 0.50
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese
+Reward: 3.00
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Mars
+Reward: 0.50
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? Cosmology
+Reward: 0.50
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? 1945
+Reward: 3.00
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? Toronto
+Reward: 0.50
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Reward: 0.00
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Mars
+Reward: 0.50
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Africa Australia Australia Antarctica Australia
+Reward: 0.50
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Mars Climate News
+Reward: 0.50
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Apollo 11
+Reward: 0.50
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? {{{ name of the planet Earth }
+Reward: 0.50
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Alaska
+Reward: 0.50
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number? 365? We don't really know.
+Reward: 0.50
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Reward: 0.00
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Celsius (degrees) F
+Reward: 0.50
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Human body
+Reward: 0.50
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Reward: 0.00
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? Yen
+Reward: 3.00
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars.
+Reward: 3.00
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Brazil
+Reward: 0.50
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Mars
+Reward: 0.50
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Reward: 0.00
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? Einstein
+Reward: 0.50
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? March 9, 1945
+Reward: 3.00
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? Canada
+Reward: 0.50
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Lisa X
+Reward: 0.50
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Jupiter. NASA/JPL-CJ
+Reward: 3.00
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Mars? Venus
+Reward: 0.50
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Mars Visited
+Reward: 0.50
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Mars
+Reward: 0.50
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? in the Earth (in the solar system) is about the square of Earth in the year
+Reward: 0.50
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? South America
+Reward: 0.50
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number? 60
+Reward: 0.50
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Mars? Mars, Mars Sun...
+Reward: 0.50
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Greenland is in the Kuiper belt, in the distance from Earth
+Reward: 0.50
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Men, cyclists, birds and fish.
+Reward: 0.50
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Romeus
+Reward: 0.50
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? Yen
+Reward: 3.00
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars Orbit
+Reward: 3.00
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Spanish (1780?9)? Brazil
+Reward: 0.50
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Moon Orbit
+Reward: 0.50
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: H2O
+What is the name of the planet Earth?
+Answer: Earth
+Reward: 0.00
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+
+What is the fundamental number?
+What is the Earth's radius?
+What is the
+Reward: 0.00
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Answer: 1945.
+Answer: 1946.
+Answer: 1945.
+Answer:
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Answer: Ottawa
+What is the world's capital?
+Answer: Canada
+
+Where is
+Reward: 0.00
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer: Lisa Marie Snow White.
+Answer: Lisa Marie Snow White.
+Answer: Snow
+Reward: 0.00
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer: Jupiter. Jupiter is 1,000 light-years away from Earth and orbits the sun
+Reward: 0.00
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: 1,000.
+Answer: 1,000.
+Answer: 2,000
+Reward: 0.00
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer: hydrogen.
+Answer: 1.
+Answer: 2.
+Answer: 3.
+Reward: 0.00
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Neil Armstrong
+What is the moon's diameter?
+Moon is about 1.5
+Reward: 0.00
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 1.
+Answer: 64 is the number of planets in the solar system.
+
+Reward: 0.00
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? What is the most populous country on Earth?
+Answer: The United States of America.
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 0.
+Answer: 1
+Answer: 0.
+Answer: 0.
+
+Reward: 0.00
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: plants.
+Answer: Plants.
+Answer: Plants.Answer: Plants.Answer
+Reward: 0.00
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer
+1
+Answer 2
+Answer 3
+
+Answer 2
+
+Answer 3
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+What organ processes blood?
+What is the blood vessel?
+What is the blood vessel?
+Reward: 0.00
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?'?"
+Answer: 'Romeo and Juliet.'
+Answer: 'Romeo and
+Reward: 0.00
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Answer: Japan.
+
+Answer: Japan.
+
+Answer: Japan.
+
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Answer: Mars.
+Answer: Earth.
+Answer: Earth.
+Answer: Planet Earth
+Reward: 0.00
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: H2O
+What is the name of the planet Saturn?
+Answer: Saturn (Planet of the Moon).
+What is its orbital period?
+Answer: 1.8 billion years
+How many moons are in our solar system
+Reward: 0.10
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? How do we know that the Sun is the center of the universe?
+Answer: By the universe.
+Answer: The Sun is about 12 million years old.
+Answer: It orbits the Earth.
+Answer: At around 6.5 Earth
+Reward: 0.10
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Answer: 1946.
+Answer: 1945.
+Answer: 1946.
+Answer: 1950.
+Answer: 1951.
+Answer: 1952.
+Answer: 1954.
+Answer: 1954.
+Answer: 1955.
+Answer: 1956.
+Reward: 0.10
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada??
+Answer: Canada?
+Answer: Canada
+Answer:
+Answer: Canada? Canada
+Answer: Canada?
+Answer: Canada? Answer:
+Answer: Canada? Answer: What country is known?
+Answer: Canada Answer:
+
+Reward: 0.10
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+ Who was it?
+Answer: Leonardo da Vinci
+
+Why did Leonardo da Vinci come to the Americas?
+
+Answer: Leonardo da Vinci
+
+Who made the world's first cat?
+
+Answer: Leonardo da Vin
+Reward: 0.10
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer: Mars. Mars, known as the largest planet in our solar system, is about 1,200 times Earth.
+Answer: Mars has about 7,800 light-years across.
+Answer: Mars is about 6,500 billion kilometers
+Reward: 0.10
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Earth is about 2.9 million kilometers (3.25 miles) wide and 2.5 million miles long.
+Earth's distance from the Sun is 7.7 million kilometres.
+Earth's orbit around the Earth is about 13.3
+Reward: 0.10
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Earth's oceans cover about 7.5 trillion square miles (5.8 trillion) miles (2.4 billion).
+
+Is there any planet orbiting the sun?
+Earth's orbit is about 4.8 solar masses (about 6.
+Reward: 0.10
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+What planet has the most energy that the sun emits?
+
+How many stars are in the Milky Way?
+
+How many planets have planets around us?
+
+How many planets are there on the surface of the Earth?
+
+How
+Reward: 0.10
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 1.0
+Answer: 1.024
+Answer: 1.000
+Answer: 1.000
+Answer: 0.999
+Answer: 1.024
+Answer: 1.01
+Answer: 10
+Answer: 0
+Reward: 0.10
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer: Antarctica
+Answer: Antarctica
+Earth
+Year in Year
+
+Year in Centigrade
+
+Year in Centigrade
+
+Planet Earth
+
+Planet Earth
+
+Planet Earth
+
+Number of Minutes on Earth
+
+Planet
+Reward: 0.10
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 5^2^6
+Answer: 0
+Answer: 6
+Answer: 9
+Answer: 10
+Answer: 10
+Answer: 101Answer
+Answer
+Answer: 101
+Answer: 2^101
+Answer:01
+
+Reward: 0.10
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: Carbon dioxide.
+So what is carbon dioxide?
+It is the amount of energy in molecules of carbon dioxide (CO 2 ) divided by the number of photons of light a photon.
+Answer: 548.
+Answer: 6
+Reward: 0.10
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Frozen water is about 12�g (2.8).
+Water vapor is about 0.01 Gose-1.
+Ice water is about 13.8 C (0.938 miles).
+How long did it start
+Reward: 0.10
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+
+Answer: the nervous system.
+Why do we see our face?
+Answer: through our eyeballs!
+Answer: to our eyes!
+Answer: our body's eyes!
+Answer: our body's nose!Answer: our
+Reward: 0.10
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? —' Juliet.'
+
+You're playing Juliette and Hamlet, but not Romeo and Juliet.
+
+The man is Romeo and Juliet.
+
+You're on the moon.
+
+It's 11 in the morning
+
+And Juliet
+Reward: 0.10
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+RU?RU?
+RU?
+RU?
+RU?
+
+
+Earth's circumference?
+Earth's circumference, square
+Earth's distance from the sun
+
+2 Earth degrees Earth distance from the Earth
+
+
+Reward: 0.10
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Ruler's square square kilometers
+Earth in orbit Earth
+Earth-Mars orbit around
+Planet Earth's distance from Sun
+Planet's orbit around the Moon
+Planet's distance from Earth
+Earth's orbit around Earth
+Planet's distance from Earth
+Reward: 0.10
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+Answer: Portuguese
+Brazilian Portuguese
+Reward: 0.10
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+The Earth's orbit around the sun.
+
+Earth's orbit around the Earth's orbit.
+Earth's orbit around the moon.
+Earth's orbit around the moon.
+
+Earth's orbit around the Earth's surface.
+
+Earth
+Reward: 0.10
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+
+H2O2
+
+Hydrogen
+
+H2O3
+
+H2O2O3
+
+H2O4
+
+H2O4
+
+H2O5
+
+H2O6
+
+
+Reward: 0.10
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer:
+Answer of universe
+Answer of the number of stars
+Answer of galaxies
+Answer of galaxies
+Answer of galaxies
+Number of planets
+Number of moons
+Number of stars
+Planet mass
+Size of Earth in Earth's orbit about
+Reward: 0.10
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Answer: 1945
+
+Answer: December 1, 1945
+
+Date: 2017.Computera:CenturyObject:Planet:-Planet(Planet mass-mass-mass-size-Earth)-Earth's distance-mass-radius
+
+
+Reward: 0.10
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+
+Córdoba Province Province‎ ‎‎: Canada Kingdom‎ : Canada KingdomUnited Kingdom‎: United Kingdom Kingdom Kingdom Kingdom Kingdom States
+Reward: 0.10
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Who painted the Moon?
+Answer: Venus
+Answer of Venus.
+Answer of Earth.
+Planet earth.
+Planet Earth.
+Planet Earth.
+Reward: 0.10
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Planet Earth: Planet Mars
+Planet Mercury
+Planet Neptune
+Planet Uranus
+Planet Neptune
+Planet Neptune
+Planet Neptune
+Planet Jupiter
+Planet Neptune
+Planet Earth
+PlanetEarth
+Planet Venus
+Planet Earth
+Planet Jupiter
+Planet Pluto
+
+Reward: 0.10
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? The Earth or Mercury? (Planet of the Sun)922Planet of the Sun
+Planet Mercury Earth Earth The Earth(Planet of The Universe) Planet Earth
+The Earth and Planets The Planets
+Planet of the Earth Venus and Mars Planet
+Reward: 0.10
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer:
+2H 2CO 3 -10*10^-*10^8
+Answer: 2H 3 +10*10^2
+Answer: 3H
+Reward: 0.10
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Mercury
+Earth's orbit around its sun
+
+Image: Jupiter
+Credit: NASA/JPL-J/CXO/AURA/JPL-G/Astronomers.com
+Reward: 0.10
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? (16 * 32)
+Answer: (32*16)
+Answer is 1.8
+Reward: 0.10
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer:
+
+Ahei.
+Reward: 0.10
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+R
+AnswerR
+AnswerR
+What is the nearest neighbor?
+AnswerPoint
+Answer
+AnswerAnswer
+
+How many decimal digits to round?
+AnswerPoint
+AnswerOne number from 1 to 2.
+Reward: 0.10
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+
+How are they made?
+
+How many stars is an object that is born?
+
+How many planets are planets orbiting our stars
+Where is our planet is. Earth and our planet.
+How much is our planet around its point
+Reward: 0.10
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+
+The freezing point of Earth from Earth.
+
+How many billion years it takes to reach the farthest point in the habitable planet (Planet Earth)?
+Reward: 0.10
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+How organ pumps blood through the human body?
+How organ pumps blood through the human body? How much blood is passing through the human body?
+Reward: 0.10
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Reward: 0.10
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+ Japanese yen
+RUB Yen Japanese Yen
+
+Reward: 0.10
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Is there another planet in the solar system known as our Red Planet?
+
+Yes.
+Reward: 0.10
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+
+English
+Úpo
+Reward: 0.10
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? How many planets in our solar system are around another?
+
+Planet Neptune's distance from the Sun
+
+Earth's distance from about our planet
+Reward: 0.10
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: hydrogen
+
+Reward: 0.10
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+
+Astronomers first developed the theory of mass, meaning the number of mass of the earth.
+Reward: 0.10
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: H2O2
+Water is the main component in natural gas, which is the main fuel for cars and other vehicles.
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer: Albert Einstein
+Answer: General Relativity
+Answer: 2
+Answer: 1
+Answer: 2
+Answer: 3
+Answer:
+Reward: 0.00
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Answer: 1945
+Answer: 1945
+Answer: 1945Answer: 1945Answer: 1945Answer: 1945Answer: 1945Answer: 1945Answer: 1945
+Reward: 0.00
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Answer: Ottawa
+
+Ottawa is the capital of Canada.
+Answer: Ottawa
+
+Ottawa is the capital of Canada.
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci.
+Answer: Leonardo da Vinci.
+Answer: Leonardo da Vinci.
+Answer: Leonardo da Vin
+Reward: 0.00
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer: Jupiter?
+Answer: Jupiter.
+Answer: Jupiter is the largest planet in our solar system.
+Answer: Planet Earth.
+
+Reward: 0.00
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: Seven continents: Seven continents: Seven continents are continents on Earth. Seven continents are the oceans: Seven oceans on Earth. Seven oceans are
+Reward: 0.00
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer: Carbon dioxide.
+Answer: H2O?
+Answer: H2O2.
+Answer: 2:1:2:
+Reward: 0.00
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Neil Armstrong
+Answer: Neil Armstrong
+Answer: Neil Armstrong: Armstrong Armstrong
+Answer: Neil Armstrong: Neil Armstrong
+Answer: Neil
+Reward: 0.00
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Reward: 0.00
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer: Japan.
+Answer: The Land of the Rising Sun.
+Answer: Japan.
+Answer: Japan.
+Answer: Japan.
+Reward: 0.00
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+
+Answer: 2.
+Answer: 2.
+Answer: 2.Answer: 3.Answer: 4.Answer: 5.Answer:
+Reward: 0.00
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: Photosynthesis. Photosynthesis is the process by which plants make food called. Photosynthesis is the process by which plants make food called photos
+Reward: 0.00
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer: 0.2°C.
+Answer: 0.5°C.
+Answer: 1.5°C.
+Answer:
+Reward: 0.00
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Answer: Heart.
+Answer: Heart disease.
+
+Answer: Heart attacks.
+
+Answer: Heart attacks.
+Answer: Heart failure
+Reward: 0.00
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?'?
+Answer: William Shakespeare.
+Answer: William Shakespeare.
+Answer: William Shakespeare.
+Answer: William Shakespeare. William Shakespeare.
+Answer
+Reward: 0.00
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Answer: Yen.
+Answer: Yen.
+Answer: Yen.
+Answer: Yen.
+Answer: Yen.
+Answer: Yen.
+Reward: 0.00
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Answer: Mars. Mars is the largest planet in our solar system. Mars is the largest planet in our solar system. Mars is the largest planet
+Reward: 0.00
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+Answer: Portuguese.
+Answer: Portuguese.
+Answer: Portuguese.
+Answer: Portuguese is the main language spoken in Brazil.
+Answer:
+Reward: 0.00
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Answer: Mars. Mars is the largest planet in our solar system. The Moon is about 2,500 miles (1,100 kilometers) across
+Reward: 0.00
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water??
+Answer: H2O?
+Answer: H2O? H2O2? What is the chemical symbol for water? Answer:
+Reward: 0.00
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer: Albert Einstein. Einstein was the first person to walk on the moon. He was the first person to walk on the moon. He was
+Reward: 0.00
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Answer: 1945. Japan was Japan's first World War II ally. Japan was the first country to join the Pacific War. Japan was the first
+Reward: 0.00
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada??
+Answer: Ottawa.
+Ottawa is the capital of Canada. Ottawa is the capital of Canada. Ottawa is the capital of Canada. Ottawa
+Reward: 0.00
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci. Leonardo da Vinci was the first person to walk on the moon. Leonardo da Vinci was the first person
+Reward: 0.00
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer: Jupiter. Jupiter is the largest planet in our solar system. Jupiter is the largest planet in our solar system. Jupiter is the largest planet
+Reward: 0.00
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: Seven. Seven continents! Seven continents! Seven continents! Seven continents! Seven continents! Seven continents! Seven continents! Seven continents! Seven
+Reward: 0.00
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer: Carbon dioxide. Carbon dioxide is the main greenhouse gas, which is the main greenhouse gas. Carbon dioxide is the main component of air in
+Reward: 0.00
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+AnswerAnswer: Neil Armstrong. Neil Armstrong was the first person to walk on the moon. Neil Armstrong was the first person to walk on the moon
+Reward: 0.00
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Answer: 8.
+Reward: 0.00
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer:  The land Japan.of the Rising Sun. What year did it mean? According to the Bible, the year of Christ. What year
+Reward: 0.00
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 2^32
+Answer: 2^32
+Answer: 2^32Answer: 2^32Answer: 2^32Answer:
+Reward: 0.00
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: Photosynthesis. Photosynthesis is the process by which plants make food called by photosynthesizing photospellified carbon. Photosynthesis
+Reward: 0.00
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: H2O2
+Water is the main component in natural gas, which is the main fuel for cars and other vehicles.
+Answer
+Reward: 2.50
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer: Albert Einstein
+Answer: General Relativity
+Answer: 2
+Answer: 1
+Answer: 2
+Answer: 3
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Answer: 1945
+Answer: 1945
+Answer: 1945
+Answer: 1945
+Answer: 1945
+Answer: 1945
+Answer: 1945
+Answer
+Reward: 2.50
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Answer: Ottawa
+Capital: Ottawa
+Countries: Ottawa
+Source: Ottawa: Canada
+How many provinces are there?
+Answer: Seven
+Reward: 2.50
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer: Leonardo da Vinci
+Source: Leonardo da Vinci
+Answer: Leonardo da Vinci
+Answer: Yes, there was a Mon
+Reward: 2.50
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer: Jupiter?
+Answer: Jupiter
+Answer: Jupiter is the largest planet in our solar system.
+Answer: Jupiter orbits our solar system
+Reward: 2.50
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: Seven.
+Answer: Antarctica.
+Answer: Antarctica.
+Answer: The Moon.
+Answer: Mars.
+Answer: The
+Reward: 2.50
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer: Carbon dioxide
+Answer: H2O2
+Answer: H2O2
+Answer: 2CO2CO2
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Neil Armstrong
+Answer: Neil Armstrong
+Answer: Neil Armstrong Armstrong
+Answer: Who was the first person to walk on the moon?
+Reward: 2.50
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 864
+Answer: 864 Number of Hours: Number of Minutes
+Birthdays: 1 Year
+Object: Capital: 0
+Reward: 2.50
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer: Japan Statistics Japan Population: Approximately 2.7 billion People (average: 2.7 Earthyears): 10.9 Regions: Japan Statistics
+Reward: 2.50
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 2159 from 1,000
+Answer: 2159 from 1,000
+Answer: 2159 from 1,000
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: Photosynthesis
+Answer: Photosynthesis
+Answer: Photosynthesis
+Answer: Photosynthesis
+Answer: Photosynthesis
+Answer: Photosynthesis
+Reward: 2.50
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer: 0.25°C
+What is the freezing point of water in Celsius?
+Answer: 0.25°C
+What is
+Reward: 2.50
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Answer: Heart
+Answer: Heart rate
+Answer: Blood sugar
+Answer: Metabolic rate
+Answer: Fat mass
+Answer: Carot
+Reward: 2.50
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?'?
+Answer: William Shakespeare
+Answer: Queen Elizabeth I
+Answer: Queen Elizabeth I
+Answer:Romeo and Juliet
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+ Yen: $1
+RU: What is the Japanese Yen? JPY? JPYil? KR? JPY? KROBR
+Reward: 2.50
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Answer: Mars
+Planet: Mars
+Answer: Jupiter
+Answer: Saturn
+Answer: The Moon
+Answer: The Moon
+Answer: The
+Reward: 2.50
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+Answer: Portuguese
+Answer: Portuguese
+Answer: Portuguese
+Answer: What is the capital of Brazil?
+Answer: Brasil
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Answer: Mars
+Answer: Moon
+Answer: Mars
+Answer: Moon
+Answer: Mars
+Answer: Mars
+Answer: The Red Planet
+Reward: 0.10
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: H2O?
+Answer: H10N2O?
+Answer: 2OHOHs
+Answer: 2OHsC
+Reward: 2.50
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer: Theory of Relativity
+Why matter?
+Answer: The laws of physics
+Answer: Theory of Relativity
+Answer: Standard Dev
+Reward: 0.10
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Photos: Photos: Photos: World War II: Invasion of the United States Photos: The Battle of the Bulge Photos: Photos: Battle of
+Reward: 0.10
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Answer: Ottawa
+Answer: Canada
+Answer: The Square Mile
+Answer: 8 Million Ways to Die in Rio
+Answer: 8 Hours of
+Reward: 2.50
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+A question that has been around forever: Who said what is the largest planet in our solar system?
+Answer: Mars
+Answer: Moon
+
+Reward: 0.10
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Nasa's New Horizons orbits our Sun in 2016
+Answer: Jupiter
+Answer: Moon: Moon: Luna
+Answer: Mars: Jupiter: Io
+
+Reward: 2.50
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: Seven Seas
+Answer: 8 Unknown?
+Answer: 9 Total?
+Answer: 8
+Answer: 1 Nasa?
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer: Carbon dioxide
+How much do plants make from water?
+Answer: Water?
+Answer: Energy Transfer From The Earth to The Moon
+Reward: 2.50
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Neil Armstrong
+Answer: Neil Armstrong
+Answer: The moon landings
+Answer: The moon landings?Answer:Apollo 11
+Reward: 2.50
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 801
+Answer: 801
+Answer: 801: 805
+Answer: 805?
+Answer: 805?
+Reward: 2.50
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer:Answer: Mars
+Answer: Earth
+Answer: Moon
+Answer: The Moon
+Answer: 7 Wonders
+Reward: 0.10
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 8159
+Answer: 8192?
+Answer: 8256?
+Answer: 8?
+Answer: 8?
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: Photosynthesis
+Answer: Photosynthesis How many photosths do we grow? Photosynthesis Photosynthesis is the process by which plants make food
+Reward: 2.50
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer: Hard
+
+Answer: Celsius
+
+Answer: Fahrenheit
+
+Answer: Celsius
+
+Answer: Fahrenheit
+
+Answer: Fahrenheit
+
+Reward: 0.10
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+
+Answer: Heartbeat Capital: Square Mile High: What is the square root?
+Answer: 64
+Answer: 64
+Answer: 8
+Reward: 2.50
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'??
+
+
+Answer: William Shakespeare
+
+Answer: Queen Elizabeth I
+
+Answer: The Queen Elizabeth
+
+Answer: The Great: Who was
+Reward: 2.50
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Answer: Yen?
+Answer: Ryoji?
+Answer: Yen?
+Reward: 2.50
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Answer: Mars
+Answer: Mars
+Answer: Venus
+Answer: Jupiter?
+Answer: The Moon?
+Answer: The Moon?
+
+Reward: 2.50
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+Answer: Portuguese?
+Answer: Spanish?
+Answer: Portuguese?
+Answer: Spanish?
+Answer: Portuguese?
+Answer: French?
+Reward: 2.50
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Answer: Mars
+Answer: Venus?Answer: Mars?Answer: Jupiter?Answer: The moon?Answer: The moon?Answer:??
+Reward: 2.50
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+What is the square root?
+Answer: 8?
+Answer: 8?
+Answer: 8?
+Answer: 8?
+Answer:
+Reward: 0.10
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer:Answer
+Reward: 0.10
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+How many World War II victims?
+How many million?
+How many planet impacts? How many oceans? How many oceans? How many Inter
+Reward: 0.10
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada??
+Answer: Ottawa
+Answer: Ottawa
+Answer: Ontario
+Answer: British Columbia
+Answer: The Netherlands?
+Answer: Netherlands? New
+Reward: 2.50
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer:Queen Elizabeth I
+Answer:The Dowager?
+Answer:Worker of the World?
+Answer:Answer:Answer:Answer
+Reward: 0.10
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer: Mars
+Answer:? Answer: Mars
+Answer: Venus
+Answer: Moon? Mars? Answer: The moon? Answer: The
+Reward: 0.10
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: 8
+Answer: 9
+Answer: 10
+Answer: 11: Russia?
+Answer: Who was the first person to:?
+Reward: 0.10
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Science says: Photos: The Moon and the Carina Fair?
+How longwas the end of the world?
+How big was the Moon?
+Reward: 0.10
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Neil Armstrong
+Answer: Mission to the Moon?
+Answer: The moon? Nasa?
+Answer: Moon? Nasa?
+Answer
+Reward: 2.50
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 864
+Answer 1 8?
+Answer 2 9?
+Answer 1?
+Answer 2?
+Answer 3?
+Answer 0
+Reward: 2.50
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Answer: Country: Country with the Most Beautiful People in the World?
+How long has been known?...?
+Answer:Answer:Answer
+Reward: 0.10
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 2^31?
+Answer: 7?
+Answer: 9?
+Answer: 10?
+Answer: 11?
+Answer:
+Reward: 2.50
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called?
+Answer: Photosynthesis?
+
+
+Answer: Photosynthesis?
+
+
+Answer: Photosy?
+
+
+Answer: Photosy?
+
+
+Answer
+Reward: 2.50
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer: 0.40C
+Answer: 1.18C
+Reward: 2.50
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Answer: Heart Rate: What is the human heartbeat?
+Answer: High Energy: 0.94 Kilobits per Hour?
+Reward: 2.50
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Answer: Queen of France
+Answer: Year 1808?
+Reward: 0.10
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+The Yen: $ Japanese Yen?
+EUR A.
+Japan Yen: JPYY? JPY? JPY?
+大�
+Reward: 2.50
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? It is the main game in our family? Nasa? Nasa? Nasa? Nasa? Universal Date: September 26, 2018
+Why was!? M
+Reward: 0.10
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Spanish? Portuguese? Portuguese? Portuguese? French? French? Italiano? Italian? Japanese? Japanese? Korean?
+Learn More Brazil
+Reward: 2.50
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Nasa? ESA?
+Answer: Mars? Nasa? What is the moon? Mars orbit? Mars? Nasa?
+What is the moon of?
+Reward: 2.50
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer:Symbol:Symbol secret:Source:µ
+Answer:µ
+Reward: 0.10
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer: Theory of Relativity
+Answer: Measurement from the Moon
+Answer: 1189
+Answer: How Long is the Moon?Answer
+Reward: 0.10
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? Photo: The 100 Greatest Days?
+Answer: May 29, 1989
+Answer: Who was the happiest man on Earth? Answer: May 1,
+Reward: 0.10
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Answer: Ottawa
+Answer: Ottawa
+Answer: Ottawa
+Answer: Montreal? CBC? Montreal? Montreal? What is the square root of 64
+Reward: 2.50
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?? Remember the Who's New Date? Live concert? Your guess what?... Guest
+Answer: Bob Dylan? Guest...? Guest Stars?...
+Reward: 0.10
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Photo: NASA/JHUOKH/PXA More...
+
+Year: Year: 2017
+Year: 2017 Stats: Passie
+Reward: 0.10
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer:?.?
+Answer:?.? Number of Days Number of Thousands? 1? Number of May Days: 1 Total? Total?
+
+Reward: 0.10
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer:? Full Energy?
+Answer: Million?
+Answer: How big is...? Answer: How big Planet?
+Answer: Truth
+Reward: 0.10
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer: Neil Armstrong? Answer: Who was the first person to walk on the moon? Answer: By The Moon? Answer: 51O?
+Reward: 2.50
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+OMG?????? © 2000??????????
+Answer: 8ABC????
+Reward: 2.50
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Year: Year:
+Exact: Year: Year:...Source: NASA. © 1999: Estes: A Year:......
+Reward: 0.10
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 2 1?
+Answer: 2 2?
+Reward: 2.50
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called??
+Photo: Getty
+Answer: Photos: Who is the Year:? Photos...? Photo: Getty Images
+What is the Night Sky?
+Reward: 0.10
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer:?C?
+Answer: What is 'P'?
+Answer: Object?
+Reward: 0.10
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+ How much is the Earth's atmosphere? Photo: The red Planet? Photo: Nasa
+
+Credit: The New York Stock Exchange (NYSE:
+Reward: 0.10
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'??
+EXHRAID?
+
+
+Was there a space? Who was the most powerful person born in?
+Reward: 0.10
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Answer: Yen?
+Reward: 2.50
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars? Jupiter? Saturn? The Moon? Photo taken by The in-Civolution
+Did you know? In 2009, our Planet,?
+Reward: 2.50
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Spanish? Spanish? Population: 7.9 billion? World: Brazil? Status: High
+Reward: 0.10
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Answer: Planet Mars?Answer: Mars?Answer: Moon?Answer: Mars?Answer: Planet Saturn?Answer: Mars?Answer: Moon
+Reward: 0.10
+
+[Epoch 1] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer: 8?
+Answer: 8?
+Reward: 0.10
+
+[Epoch 1] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? © Andrew Jackson Place to the Moon
+What is the square root?
+Answer: 9? Country square in?
+Reward: 0.10
+
+[Epoch 1] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? Photo by: Getty Images
+How many Planet Expressions: Cost of Man? Photo by: ©1999 American Society for Testing and Materials
+What is
+Reward: 0.10
+
+[Epoch 1] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? Canadian: Toronto? World Capital:? ©?
+Reward: 0.10
+
+[Epoch 1] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? GETTY-Is there another World Cup Champion? GETTY-What is the H...
+Reward: 0.10
+
+[Epoch 1] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer from left: 500,000,000?
+Answer from guess by TheAnswer ()
+Reward: 0.10
+
+[Epoch 1] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? How long ago was the Moon? Who was on:.(How old?) Who was the Moon?.(How long was the Moon?.(How
+Reward: 0.10
+
+[Epoch 1] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? What is the average global average? Photo: © The Environment Project/Photos Agency
+
+How fast is falling? Photo: © The National Ocean:
+Reward: 0.10
+
+[Epoch 1] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Check our guess who died In A...
+Reward: 0.10
+
+[Epoch 1] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer from 1 to 1049
+What is an Square Foot?
+Reward: 0.10
+
+[Epoch 1] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? What is the Day of the Week? Methodology 101
+Reward: 0.10
+
+[Epoch 1] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer 4? Square root?
+Reward: 0.10
+
+[Epoch 1] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photosynthesis Human Hair? Photosynthesis? PhotoMysticalISOP
+Reward: 2.50
+
+[Epoch 1] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+What is the Fahrenheit step?
+Reward: 0.10
+
+[Epoch 1] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+How old is the day we live?
+What is known as "New Year?
+Reward: 0.10
+
+[Epoch 1] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Answer: 0 based on 0 on
+Reward: 0.10
+
+[Epoch 1] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Reward: 0.10
+
+[Epoch 1] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet?
+Answer: Mars
+Answer: Mars Society Moon
+Answer: Mars Mars Science Team
+Reward: 2.50
+
+[Epoch 1] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Catalan Spanish: España?
+Reward: 0.10
+
+[Epoch 1] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Answer 100:1134:53:53 The Weather Union
+Answer 101:21:9: Wall of Japan
+Answer 000:49:
+Reward: 0.10
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Answer 8 O'H?
+How many Earth's oceans are on our planet? Photo: ©Luca Maples/Getty Images
+Answer
+Reward: 0.10
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer 849/Answer 849/Answer
+Reward: 0.10
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Creature from: Hulk
+
+How tall was Neil Armstrong? (about 639.
+What is the International Date?
+Reward: 0.10
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Toronto, Ontario
+How many states in Japan?
+Reward: 0.10
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer 1.34
+Answer 2.34 Scientists discover planet our universe Nasa 2.34 Photo: NASA More Science Photos Universe: Discovery More Like
+Reward: 0.10
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Answer 849
+Answer 849 Earth
+Answer 1.79 Earth is Red
+Reward: 0.10
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer 831,509. How Long Can We Journey?
+Reward: 0.10
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer: Mars Pollides
+Answer: Mars Rain
+Answer: Snow
+Answer:
+Reward: 0.10
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer 99
+Reward: 0.10
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer 899
+Answer 099
+Question 099
+Reward: 2.50
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Japan is based in
+Star Wars © Disney World World Parks & Resorts
+Reward: 2.50
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer 1
+Answer 95 64
+Reward: 0.10
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photo:StockPhoto.com
+Answer:Tropical Toad (pictured)
+Reward: 0.10
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer: 0.55 Celsius
+Answer: 0.89 Fahrenheit
+Answer: 1 Celsius
+Reward: 2.50
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Click through the most popular was 'Yes'
+Reward: 0.10
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Answer: Queen of Comedy
+Creator of 'Romeo and Juliet'
+Reward: 0.10
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Reward: 0.10
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? How Long Was the Moon?
+Answer 95 Earth?Answer 99Earth() (Answer 96a:49 Earth-4746 moon)
+Reward: 0.10
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil?
+ライバウィンド
+What is the Tokyo Megapoichi Station?
+Reward: 0.10
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+Answer:Answer:Answer:Answer
+Reward: 0.10
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Syrup
+Reward: 0.10
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer:^2
+Reward: 0.10
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+How Great Was an Age
+Reward: 0.10
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+How many English Words?
+Reward: 0.10
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer 864
+Reward: 0.10
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+How big? Photo: ©2017 Kei-T08O for Design and Science Photos ©2013 Lawrence Kraig
+Reward: 0.10
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth?
+Answer: 891.
+Answer 98
+Reward: 0.10
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere?
+Answer How Big is the Sun?
+Reward: 0.10
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer 71:?
+Reward: 0.10
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer: 8
+Source: Square root in 64
+Reward: 2.50
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?
+Year 2014
+Reward: 0.10
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+© © Thomson Reuters 2015
+Reward: 2.50
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photosynthesis: Photosynthesis Flowers are made from carbon dioxide (CO2). Photoynthesis is the process by which photosynthesis takes place in photos. Photo
+Reward: 2.50
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Answer 100
+Answer 99A
+Reward: 2.50
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Read More
+What is the biggest planet in our planet? Read More Photos Photos Photo: The Photos of the Day Who in History Photos: Who in
+Reward: 0.10
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Answer: Greatest Rock Star?
+Reward: 0.10
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+ Yen
+Reward: 2.50
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Photo Credit: NASA. Used by The (©2009) Corporation for Science and Education Data)
+Reward: 0.10
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese is Brazilian Portuguese for: Portuguese
+Reward: 2.50
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Photo: ©2008 U.S. GlobalPhotos. Photos: ©2008 Caption: Planet Earth from NASA. Photos: ©2008 Caption: Photos:
+Reward: 0.10
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Image Source: ©1999-2018 © The Copyright 2018 Company
+Reward: 0.10
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer 99
+Answer 100
+Answer 101
+Reward: 0.10
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+
+How many-Island Wars?
+Reward: 0.10
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Answer 100 U.S.S.H
+Answer 1.967
+Reward: 0.10
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Photo: ©1969 The LIFE images Portrait of the World
+Portrait of the Unknown? Photo: ©©Porto Images / Porto-
+Reward: 0.10
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.10
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Photo © AFP
+
+Correction: An error has been made in the article by processing the numbers in Per million: 100 from operations:.
+Reward: 0.10
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Photosynthesis Photosynthesis How plants make food called":"Howys
+Reward: 0.10
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Photo © Getty Images Photos Collection
+Reward: 0.10
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+How large is an inch? Photo © © Getty Images Ltd
+Reward: 0.10
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Photo taken October 2, 2013 Photo © Stephen Drew Photo Used under Creative Commons Photos. © By Getty Images. © Photo Copyright © Kevin See More Photo
+Reward: 0.10
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+
+Symbol for how many?
+Reward: 0.10
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photosynthesis — Photosynthesis is the process by which the plants grow from a like image. Photosynthesis plants photosynthesis from the tree of life PhotoI
+Reward: 2.50
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Reward: 0.10
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? How fast? Photo: © Chris McCollis (Photos via The Photos/TFC Flickr Creative Commons)
+Reward: 0.10
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? in Pro Football
+Photo credit: © Getty Images
+Reward: 0.10
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Reward: 0.10
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Photo © Getty Images. © Images. © Getty Images. © Images. © Images. © Photos. © Photos.
+Reward: 0.10
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? French
+Icelando-Pacific Spanish: Spanish
+English: Italiano
+Reward: 0.10
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Photo © Getty Images
+How long does it take to orbit the Moon? Photo © Getty Images Photos
+
+How big is the Moon? Photo ©
+Reward: 2.50
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Photo © Getty Images
+Reward: 0.10
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Reward: 0.10
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?
+Reward: 0.10
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Canada New Brunswick
+
+T Free Pascal's Rainbow
+Reward: 0.10
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Getty Images 2/3 8 Photo - © Disney Photos 3/3 8 Photo - © Disney Photos 2.jpg
+Reward: 0.10
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Photo © Getty Images
+
+Reward: 0.10
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Photo © Getty Images. © Copyright © 2018 The Web Resources
+Correction: March 2018 Hurricane Maria Maria
+Reward: 0.10
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? How cool? Photo © NASA ©NASA Photo//2C/R. Photos 20 / The Colorful Year
+Reward: 0.10
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Photo © Getty Images for LiveScience © Getty Images Images for Science © Getty Images for Basic Science The Copyright: © Getty Images
+ROSE CIR
+Reward: 0.10
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Answer 64 Big <<=32.32
+Reward: 0.10
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Ruler of Japan
+Reward: 2.50
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer: 64
+Answer 2123
+Answer Triple
+Answer
+Reward: 2.50
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photosynthesis: Photosynthesis Base off:​ Photosys Ratio PhotoTrans bodyfat Carboxymethyl Anhydrogen Dehydrogenase PhotoHeight Conversion
+Reward: 2.50
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Fahrenheit - Celsius F TH
+Photo © Chris Hill/Getty Images
+Reward: 0.10
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Photo © Getty Images/iStockphoto
+Reward: 0.10
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? invent:A-NEC'?
+Reward: 0.10
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan? Yen [JPY62 = JP Yen]
+Reward: 2.50
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Astronomers celebrate our birthday on Jan. 2d {SEVEN}
+Reward: 0.10
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese Portuguese
+Reward: 2.50
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? (Photo: © ©ISS/Rovi) Caption: NASA's Mars Atmospres Landes Around the Earth Photo © ©
+Reward: 0.10
+
+[Epoch 2] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Symbol Organ water
+Reward: 0.10
+
+[Epoch 2] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer: Queen Elizabeth I
+Answer: Queen Maxima Worksman Artist Artist
+Reward: 0.10
+
+[Epoch 2] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? What year Pando 8XR And...
+Reward: 0.10
+
+[Epoch 2] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Ralphs: from Greek ηληל
+Reward: 0.10
+
+[Epoch 2] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Nasa:Successive 10,000 Year Journey to the Moon? Nasa:Great? What Was the World's ShortFreeKW? New World War
+Reward: 0.10
+
+[Epoch 2] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Photo:Stockphoto © Getty Images
+Original: Jupiter
+Reward: 2.50
+
+[Epoch 2] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Photo © Greg�下人・佐且期名利人・ワールドジェクトライル
+Reward: 0.10
+
+[Epoch 2] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Aqua: Fairtrade Description:In International Trade SymbolSymbol
+Reward: 0.10
+
+[Epoch 2] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer 101)
+Reward: 0.10
+
+[Epoch 2] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Symbol for 64
+Symbol Number 64 in 64
+Symbol Fat Million
+Reward: 0.10
+
+[Epoch 2] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? Photo © Lee In 1969 The in Abbey Build All Fair Copyright © 1969 United States Copyright Office Version Number
+Reward: 0.10
+
+[Epoch 2] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Answer 2
+Answer 3
+Answer 4
+Reward: 2.50
+
+[Epoch 2] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Scientific name: Photosynthesis Base Unit: Howling Oceans Environment Reference Laboratory Mount Olympus Kingdom in Hawaii Key Image 2000 Archive clearance image Photo courtesy NASA
+Reward: 2.50
+
+[Epoch 2] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius?
+Symbol <<GLenum HPa
+Reward: 0.10
+
+[Epoch 2] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Red Blood Brown Rice Blue:What Information
+Color: Blue from Red; Brown from Green; Brown from Dark Brown; Black from Red
+Reward: 0.10
+
+[Epoch 2] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Answer:Queen Elizabeth II
+Reward: 0.10
+
+[Epoch 2] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?TaiwanCost Dollar
+Reward: 0.10
+
+[Epoch 2] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Photo Credit Kepler Photo Kepler In Search Of: More = Less
+Reward: 0.10
+
+[Epoch 2] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese Portuguese Portuguese Portuguese
+Reward: 2.50
+
+[Epoch 2] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Nasa: 50Year(2014)LEhighAlive?
+Reward: 0.10
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water? ( バウモナスセット ) ) Hydrochloride Information from Hydro ​ ​Wikipedia Template {{Title}} Public Domain
+Reward: 0.10
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer:In How Many Euros?
+Reward: 0.10
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?How Great Were the Pro Wars?Source: ©1999-2018 United States Department of Defense
+Reward: 0.10
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+How many Spanish Islands? Nasa Earth Observatory Nasa National Snow and Ocean: Moon Observatory
+Reward: 0.10
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Who knew the Star Wars? Who knew World Trade Center? Who knew Hurricane Katrina? Who knew Hurricane Maria? Who knew Hurricane Maria? Who Killed Planet
+Reward: 0.10
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Photo: © © Photo The United States. © © 2017 Photo Moon Skier © Built by New York City Mission New York City Mission World Map Photo
+Reward: 0.10
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Photo of the Day: NASA name (2017 U.S.S.) Earth 2017 Photo of the Ret Artist Photo of The Storm of Rain Man Unit
+Reward: 0.10
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Ice from Earth The Earth is in our Year in Science. © NASA The Artist Be Public See More
+What is the Earth Mars Climate SystemMet Office
+Reward: 0.10
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+What planet was Mars
+Reward: 0.10
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? Di�
+English English pound Spanish Carrier Eurometre
+Reward: 0.10
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun? What is the Meteor Rainier Drive? What is the Elevation of Water Temperature in City State New York City State of New York City Environment Reference Manual
+Reward: 0.10
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+SymbolLog(1024)
+Reward: 2.50
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photosynthesis Waysl} Wayslopeheres Photosynthesis Energy: Photosynthesis Mountain Res in Irvine photosref=photodynamicmechanicsPhotometryFT
+Reward: 2.50
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Fahrenheit (F). Celsius is Fahrenheit in Fahrenheit Kelvin Goldstone Sea Level Fahrenheit (¥ Celsius) Kelvin Gold Rush Hour Day
+Reward: 0.10
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?(Photo credit: Getty Images) Getty Images Creative Commons License Photo
+
+Photo Copyright © Karl Hershwin-Max-Risney and Sh
+Reward: 0.10
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Who knows what else in Discovery Channel's History(©2009 CBS Corporation) Discovery Channel
+Reward: 0.10
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?Kronaワールジラ大利, Japanシール天龍淯在人民大地中�
+Reward: 0.10
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Photo ©Carbon ©MozartPhotos /Photos via Getty Images) Scientists discover what is the Red Planet Credit Universeometer (Credit: NASA)
+Reward: 0.10
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese Portuguese PortugueseBaroq pronounced 甩木本台朔朁朔术朔术朔
+Reward: 2.50
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Nasa/NASA Photo Number Range / mission Description / Discovery Program / Space Shuttle End Crew Program | Discovery Program | Program Mission Mission Mission Program Mission Accommod
+Reward: 0.10
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Syrup Photososh Obara Forest of Japan
+Reward: 0.10
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? Nasa Curiosity Rover Images Full Color image from NASA Photo Moon © Spencer Coupled Photography © University of California, Davis. ©2018 National Park Service
+Reward: 0.10
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?What year World World Wars Japan and China EndNote©©© Tro��いて銀�・ピンパイナ
+Reward: 0.10
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? What is the Australian Territory Australia New Territory Independence Australia / New Brunswick New Brunswick
+Reward: 0.10
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? Who knew? Who knows weather stations:New York City and New York City Station Station
+Reward: 0.10
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Photo Credit NASA/ISS. ©2016 NASA and NASA Swift‏{Orca}. Caption Photo ©NASA and Swift‏Pluto Photo©
+Reward: 0.10
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? PhotoProjectX:Apapa-Hanseniseose/ApapaSpear:Newest Earth] PhotoProject:New Moon Nasa®PhotosNew
+Reward: 0.10
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Reduces: Columbia Sea Level Sea Level Rise Per Year Temperature
+Total Ocean Mete Sea Level Per Year
+Reward: 0.10
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Answer:Unit
+Reward: 0.10
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Square in Millilitres Fahrenheit (2 Celsius in Fahrenheit Dayton)
+© International Celsius Fahrenheit Fahrenheit Base Kelvin -49 Fahrenheit Fahrenheit Fahrenheit Fahrenheit Celsius
+Reward: 0.10
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?Photo © Tom ReddingPhoto©2016 HumansOmapre・・・�中願建链協��
+Reward: 0.10
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Square root²123 = 64
+Free in 1024
+²1024×1024
+Reward: 2.50
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photosop PhotosyspermYELLOW andyl・Carmelonyllesis PhotoEURIS Photosop PhotosyOdds PhotoResolution
+Reward: 0.10
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Fahrenheit Kelvin Celsius in Celsius International Fahrenheit Fahrenheit Global Celsius Mon Celsius Fahrenheit Fahrenheit Car Celsius Mon Hour Fahrenheit Tokyo Fahrenheit Kelvin SI Fahrenheit Red Indian Celsius International Celsius Mon
+Reward: 0.10
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? What organ pumps blood through the stored eggs? Photo Not Dead / Commission Pier opened Public Domain < Title>Trillion-Year Old Plant and Farm New
+Reward: 0.10
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'? Who was Queen Elizabeth I.'
+Reward: 0.10
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?PhotoRhí--EAHos AFP
+Reward: 0.10
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? PhotoOileysman Square In Earth Earth Seconds PhotoCorrection: Theory & Men in Mars Curiosity and Mars Odyssey Copyright ©NASA Photo International Planets Photos
+Reward: 2.50
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese Portuguese Portuguese Portuguese Spanish
+Reward: 2.50
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth?
+What orbit the Moon? PhotoMySpaceNewton Observatory and NASA Vandwell SantoLando Man Observatory NASA orbits the Moon Land and Water Planet
+Reward: 2.50
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Number Seven Hundred (9)
+Reward: 0.10
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?OM/D
+Answer: 101 How Long is An Hour in Space Station (Earth Hour in Celsius in Fahrenheit)
+Reward: 0.10
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? What year World World Championship Boxing™ Japan in Japan
+Reward: 0.10
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? What is the street Name Canadian PriceIn USD (In USD dollars)Street Weight Nutrition PackageName
+Reward: 0.10
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa? WhoScored the Daybreak LeGrandDileF HighwayHigh Park TowerRiseOfNew York City()
+Reward: 0.10
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system?
+Reward: 0.10
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? World:Respirator Park Method© and��Made at the Slop-Out� Library
+Reward: 0.10
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? PhotoNO Credit NASA/ESA/Hubbles Photo Atmosphereand Space Observatory Mission Mission Environmental Environment Agency NASA Environment Environment Environment Data Station (NASAena"],"
+Reward: 0.10
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Photo ©Osiers WorldView/Getty ImagesOseth Photo Copyright ©Osethley Photos ©Osiers In Astronomy Map Photo ©Bill
+Reward: 0.10
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Symbol International Dollars
+Reward: 0.10
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?大跱丸中国期体中国人氷合札誓?大人火
+Reward: 0.10
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Photo taken: © Getty Images
+OriginalSize.jpg
+Reward: 0.10
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Photoibisprintprintfish —Image:Stockphoto Ltd./Getty Images Photo Ltd.
+Reward: 0.10
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Photoref: © Getty Images/John F. Kennedy
+Reward: 0.10
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body?
+Gallery of Experts
+Reward: 0.10
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+© Florence Night and Moore
+Reward: 0.10
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+Reward: 0.10
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars Mars Global Climate Change [NASA Goddard Institute for Space Science] Caption Global Temperature Environment Environment Environment Environment Photososphere Global T Moon Environment Environment Observatory Mission Mission
+Reward: 2.50
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? Portuguese Portuguese Portuguese Portuguese Portuguese
+Reward: 2.50
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? View Photos World Cup © Kitt And Eric Plummer Photo Rescue and Education Organization (KEAPEC) Caption Base and Mars Curiosity Credit: NASA Photo Library
+Reward: 0.10
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water?
+Synthetic Symbol
+Reward: 0.10
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity?
+Answer:^\
+E\
+Answer:48
+Reward: 0.10
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end?Source: ©George Washington D.C. D. Co.O.
+Reward: 0.10
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada?
+Canada Independence Independence Day: Independence
+Reward: 0.10
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?
+Answer: Lisa Marie Andrews
+Answer: Mona Lisa Marie Obito Man in London Keyless Land Land Copyright ©2000-2018 The Royal Society
+Reward: 0.10
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? PhotoDiscover the Science PhotoGreatBridge PhotoOceans photoHearthsea-New Horizons PhotoID PhotoMax.Met�・Is Target・Moonrise
+Reward: 0.10
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? Photoエーシュ・龍・大楽イイシンズインション・グラムフェア
+Reward: 0.10
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Global Climate Change PhotosTopics PhotosGlobal Championship VoteTopper
+Reward: 0.10
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon?
+Learn more about Discovery of Life on Mars PhotoNOAA/Jim Hansen Images Enlarge Photo Rescue Mission Mission Mission Houston - Mission - Mission New Moon
+Reward: 0.10
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64?
+Symbolシナシーシー
+Symbolヤシナツナシージュ強場同�
+Reward: 0.10
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?服朜飼大拠有你上你十朔�十弋行う�
+Reward: 0.10
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.10
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? PhotoScience photoelectricphotosontour
+How High AreCarbons PhotoSciencePhotographs ©Getty Images Enlarge Photo: Chip & Dale Cooper Co.
+Reward: 0.10
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? Helping Celsius Celsius in Fahrenheit Fahrenheit Fahrenheit Mountain Fahrenheit Local Respiratory High Fahrenheit Mountain Fahrenheit Attack Rain Met Office New York City Fahrenheit Mountain Fahrenheit
+Reward: 0.10
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? PhotoCopyright © Isaac Haas Kennedy-Is. Photos.TMet.O
+Reward: 0.10
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?
+Photo copyright Getty Images Image: Rowbothen Hall/Getty Images
+
+What was World Cup 'H'R'N's Rank
+Reward: 0.10
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?
+IceIcePicks Bitcoin Cash Price ( USD / $
+Reward: 0.10
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? Mars and Mars Mars Atmosphere and Climate Organization Earth Observatory NASA NASA 'Meteor Earth' Environment Environment Environment Environment Environment Environment Environment Environment Environment Environment Environment Environment
+Reward: 2.50
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? What is the Brazilian Portuguese Portuguese Portuguese Spanish
+Reward: 2.50
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Photo credit: NASA/ESA/GETI/SETI NASA/Artist's View Home Photo Taken On Mars Nasa Station Mare Island and the Man Mars
+Reward: 0.10
+
+[Epoch 3] Query: What is the chemical symbol for water?
+Reference: H2O
+Response: What is the chemical symbol for water? PhotoMagic: Workers Miracle Power PhotoToms PhotoTops Recona
+Photo Copyright © Andrew Photos/Andrew Photos Images. All Rights Reserved.
+Reward: 0.10
+
+[Epoch 3] Query: Who developed the theory of relativity?
+Reference: Albert Einstein
+Response: Who developed the theory of relativity? Science Photo World World Photo World Photo World Map Photo World Map Photo Map Data
+Photo available from the © NASA/J.-Newlook/Mission
+Reward: 0.10
+
+[Epoch 3] Query: What year did World War II end?
+Reference: 1945
+Response: What year did World War II end? What country was World World World Capital. Cost of Japan Japan in Japan is Japanese JapanEuropean World JapanEuropean大訳�人術
+Reward: 0.10
+
+[Epoch 3] Query: What is the capital of Canada?
+Reference: Ottawa
+Response: What is the capital of Canada? Toronto International City Government New Delhi Bill New York City International Airport The New York City World Trade Center World Trade Center Towers World World Trade Center Plaza Towers World
+Reward: 0.10
+
+[Epoch 3] Query: Who painted the Mona Lisa?
+Reference: Leonardo da Vinci
+Response: Who painted the Mona Lisa?New York City Opera Arena and Tower Park World City City Building
+Reward: 0.10
+
+[Epoch 3] Query: What is the largest planet in our solar system?
+Reference: Jupiter
+Response: What is the largest planet in our solar system? Photo taken August 2014 Launch Complex Reef and Ida moon orbits the moon in 2016 Nasa's Moon Mission Mission
+Reward: 0.10
+
+[Epoch 3] Query: How many continents are there on Earth?
+Reference: Seven
+Response: How many continents are there on Earth? How old can die from being born in Paris Hurricane Maria
+Reward: 0.10
+
+[Epoch 3] Query: What gas do plants absorb from the atmosphere?
+Reference: Carbon dioxide
+Response: What gas do plants absorb from the atmosphere? Science photo of the from the Irworld of moon landing Photo taken by NASA and NASA Public Images. NASA/John Johnson/Photos/New Images Environment
+Reward: 0.10
+
+[Epoch 3] Query: Who was the first person to walk on the moon?
+Reference: Neil Armstrong
+Response: Who was the first person to walk on the moon? Photo © NASA/John Kennedy Discovery and National Aeronaut and Space Administration Photo via Getty Images Photo TIFF/Jac-Paul H.I.
+Reward: 0.10
+
+[Epoch 3] Query: What is the square root of 64?
+Reference: 8
+Response: What is the square root of 64? How.
+How Long National Parks are Normalized Cities in World Heritage Stages
+Reward: 0.10
+
+[Epoch 3] Query: Which country is known as the Land of the Rising Sun?
+Reference: Japan
+Response: Which country is known as the Land of the Rising Sun?Which country Japan Pacific is Japanese American Samoa MacaqueSea Islands Taiwan Taiwan and Land of the Golden Monks
+Reward: 2.50
+
+[Epoch 3] Query: What is the smallest prime number?
+Reference: 2
+Response: What is the smallest prime number?
+Reward: 0.10
+
+[Epoch 3] Query: What is the process by which plants make food called?
+Reference: Photosynthesis
+Response: What is the process by which plants make food called? Scientists have been able to create make-me-remix, from Mad Max: Fury Road/Fifty-First Mission. Photo: © Getty
+Reward: 0.10
+
+[Epoch 3] Query: What is the freezing point of water in Celsius?
+Reference: 0
+Response: What is the freezing point of water in Celsius? What is an Fahrenheit Fahrenheit Celsius Celsius Fahrenheit ISSAEL - In Fahrenheit Celsius Fahrenheit Fahrenheit Celsius Fahrenheit IS Celsius Fahrenheit ISReference - Fahrenheit Celsius Celsius F =
+Reward: 0.10
+
+[Epoch 3] Query: What organ pumps blood through the human body?
+Reference: Heart
+Response: What organ pumps blood through the human body? Transplantation (also known as Life Star Species) is Life's Little Girl, the Little World's Hardiest Day Girl. Photo © Disney/
+Reward: 0.10
+
+[Epoch 3] Query: Who wrote 'Romeo and Juliet'?
+Reference: William Shakespeare
+Response: Who wrote 'Romeo and Juliet'?,'What is Spanish,' Spanish: Spanish Spanish Francs Island and Nevis 'I-Isis' Revolution,' Spanish World Spanish Spanish Spanish 'Tr
+Reward: 0.10
+
+[Epoch 3] Query: What is the currency of Japan?
+Reference: Yen
+Response: What is the currency of Japan?Gong Long Island
+Reward: 0.10
+
+[Epoch 3] Query: Which planet is known as the Red Planet?
+Reference: Mars
+Response: Which planet is known as the Red Planet? PhotoO. Photo-Expander Destiny Photo Galaxy Images. © Images of 'The Earth and the Moon' Moon. Photo Moon. Moon. Moon
+Reward: 0.10
+
+[Epoch 3] Query: What is the main language spoken in Brazil?
+Reference: Portuguese
+Response: What is the main language spoken in Brazil? What Portuguese Portuguese Portuguese PortugueseNewSpanish
+Reward: 2.50
+
+[Epoch 3] Query: What natural satellite orbits the Earth?
+Reference: The Moon
+Response: What natural satellite orbits the Earth? Science photos. World Photos. Photo Google:AdimatedEarthPhoto()/CreativePhotos.jpg)
+Reward: 0.10
+
